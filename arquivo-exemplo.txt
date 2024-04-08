@@ -3,3 +3,9 @@ Olá, mundo!
 Eu sou o Rafael!
 
 Muito prazer!
+
+Hello, world!
+
+I am Rafael!
+
+Nice to meet you!
