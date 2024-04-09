@@ -19,3 +19,5 @@ Vou alterar aqui
 hoje foi aula para commitar no git
 
 vou compartilhar a tela do git isso
+
+Só para avisar Rafael que eu passei por aqui -- Leonardo
