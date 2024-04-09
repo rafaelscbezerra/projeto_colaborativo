@@ -15,3 +15,7 @@ Eu tenho 32 anos...
 E moro em Barueri, na Grande São Paulo...
 
 Tudo bem contigo?
+Vou alterar aqui
+hoje foi aula para commitar no git
+
+vou compartilhar a tela do git isso
