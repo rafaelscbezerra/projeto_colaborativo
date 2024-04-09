@@ -9,3 +9,9 @@ Hello, world!
 I am Rafael!
 
 Nice to meet you!
+
+Eu tenho 32 anos...
+
+E moro em Barueri, na Grande São Paulo...
+
+Tudo bem contigo?
